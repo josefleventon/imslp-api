@@ -1,0 +1,25 @@
+{
+  "name": "imslp-api",
+  "version": "1.0.1",
+  "description": "Access composer and work data directly from the IMSLP API. JSON is stored in an array of objects for convenience.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefleventon/imslp-api.git"
+  },
+  "keywords": [
+    "music",
+    "imslp",
+    "api",
+    "json"
+  ],
+  "author": "Josef Leventon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefleventon/imslp-api/issues"
+  },
+  "homepage": "https://github.com/josefleventon/imslp-api#readme"
+}
