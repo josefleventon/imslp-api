@@ -1,6 +1,6 @@
 {
   "name": "imslp-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Access composer and work data directly from the IMSLP API. JSON is stored in an array of objects for convenience.",
   "main": "index.js",
   "scripts": {
