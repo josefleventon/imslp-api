@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "Access composer and work data directly from the IMSLP API. JSON is stored in an array of objects for convenience.",
   "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
   "dependencies": {
     "axios": "^0.19.2"
   },
