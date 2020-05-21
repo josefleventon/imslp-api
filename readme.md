@@ -1,5 +1,5 @@
 # IMSLP API
-Get data from the (IMSLP API)[https://imslp.org/wiki/IMSLP:API] without having to deal with their horrible JSON format yourself! Get easy access to a massive list of composers and works, along with all the linked metadata and links related to them.
+Get data from the [IMSLP API](https://imslp.org/wiki/IMSLP:API) without having to deal with their horrible JSON format yourself! Get easy access to a massive list of composers and works, along with all the linked metadata and links related to them.
 ## Information
 The International Music Score Library Project, also known as the Petrucci Music Library after publisher Ottaviano Petrucci, is a subscription-based project for the creation of a virtual library of public-domain music scores.<br> As of May 21, 2020 at 9:46 AM Eastern Standard Time, ISMLP stands at an index of:<br>
 **159,144 works · 18,825 composers · 539 performers**<br>
