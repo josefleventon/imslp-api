@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/imslp-api.svg)](https://badge.fury.io/js/imslp-api)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/josefleventon/imslp-api/release)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/josefleventon/imslp-api/releases)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/josefleventon/imslp-api/release)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/josefleventon/imslp-api/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/josefleventon/imslp-api/issues)
