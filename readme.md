@@ -3,6 +3,7 @@
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/josefleventon/imslp-api/release)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/josefleventon/imslp-api/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/josefleventon/imslp-api/issues)
+![Node.js CI](https://github.com/josefleventon/imslp-api/workflows/Node.js%20CI/badge.svg)
 
 # IMSLP API
 Get data from the [IMSLP API](https://imslp.org/wiki/IMSLP:API) without having to deal with their horrible JSON format yourself! Get easy access to a massive list of composers and works, along with all the linked metadata and links related to them.
