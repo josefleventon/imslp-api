@@ -2,7 +2,7 @@
 const axios = require("axios");
 
 // Downloads works (JSON)
-export default async function (start, amount) {
+exports.works = async function (start, amount) {
   // Creates array of JSON elements
   var workList = [];
 
@@ -49,4 +49,4 @@ export default async function (start, amount) {
         if (workList.length === amount) return workList;
       });
   }
-}
+};

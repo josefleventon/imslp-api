@@ -25,13 +25,13 @@ Example:
 
 ```js
 // Import API
-const composers = require("imslp-api/composers");
+const api = require("imslp-api");
 
 // GET Composers
 // Here are two examples
-composers(6, 1);
+api.composers(6, 1);
 // This will return index 6 on the list
-composers(0, 2);
+api.composers(0, 2);
 // This will return 2 composers starting from index 0
 ```
 
@@ -75,13 +75,13 @@ Example:
 
 ```js
 // Import API
-const works = require("imslp-api/works");
+const api = require("imslp-api");
 
 // GET Works
 // Here are two examples
-works(4, 1);
+api.works(4, 1);
 // This will return index 4 on the list
-works(8, 3);
+api.works(8, 3);
 // This will return 2 works starting from index 8
 ```
 

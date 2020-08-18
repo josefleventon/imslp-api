@@ -2,7 +2,7 @@
 const axios = require("axios");
 
 // Downloads composers (JSON)
-export default async function (start, amount) {
+exports.composers = async function (start, amount) {
   // Creates array of JSON elements
   var composerList = [];
 
@@ -39,4 +39,4 @@ export default async function (start, amount) {
         if (composerList.length === amount) return composerList;
       });
   }
-}
+};
