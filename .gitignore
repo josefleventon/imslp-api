@@ -1,3 +1,6 @@
+# Tests folder
+/tests
+
 # Logs
 logs
 *.log
