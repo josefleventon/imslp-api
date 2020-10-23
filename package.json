@@ -7,7 +7,7 @@
     "test": "node index.js"
   },
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.21.0"
   },
   "repository": {
     "type": "git",
