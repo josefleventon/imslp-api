@@ -4,6 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/josefleventon/imslp-api/issues)
 ![Node.js CI](https://github.com/josefleventon/imslp-api/workflows/Node.js%20CI/badge.svg)
 
+🚨 Version 2.0.3-min is out! It's lighter than ever! 🚨
+
 # IMSLP API
 
 Get data from the [IMSLP API](https://imslp.org/wiki/IMSLP:API) without having to deal with their horrible JSON format yourself! Get easy access to a massive list of composers and works, along with all the linked metadata and links related to them.
