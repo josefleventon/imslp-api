@@ -9,6 +9,9 @@
   "dependencies": {
     "axios": "^0.21.0"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/josefleventon/imslp-api.git"
