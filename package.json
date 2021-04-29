@@ -1,6 +1,6 @@
 {
   "name": "@josefleventon/imslp-api",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "Access composer and work data directly from the IMSLP API. JSON is stored in an array of objects for convenience.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "axios": "^0.21.0"
   },
   "publishConfig": {
+    "cache": "~/.npm",
     "registry": "https://npm.pkg.github.com"
   },
   "repository": "git://github.com/josefleventon/imslp-api.git",
